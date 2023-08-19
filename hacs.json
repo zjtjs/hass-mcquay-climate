@@ -1,0 +1,6 @@
+{ "name": "McQuay ac cloud",
+  "render_readme": true,
+  "domains": ["climate"],
+  "homeassistant": "0.96.0",
+  "iot_class": "cloud_poll"
+}
